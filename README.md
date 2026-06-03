@@ -24,5 +24,8 @@ Reverses your most recent action. If you selected an image by mistake, Undo will
 Preview / Magnifying Glass
 Opens a larger view of the image. From the preview, you can mark the image as interesting or close the preview without selecting it.
 
+Selects 
+You can review your selected images and remove any mistakes. It also shows the number of selections you have made. Expect the final number between 25 and 50.
+
 Export
-Opens the final submission screen. You can review your selected images and remove any mistakes. Lastly, enter your name and submit, your selections will automatically be saved to a Google Drive for further analysis.
+Opens the final submission screen. Enter your name and submit, your selections will automatically be saved to a Google Drive for further analysis.
