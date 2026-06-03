@@ -24,7 +24,7 @@ Reverses your most recent action. If you selected an image by mistake, Undo will
 Preview / Magnifying Glass
 Opens a larger view of the image. From the preview, you can mark the image as interesting or close the preview without selecting it.
 
-Selects 
+Selects
 You can review your selected images and remove any mistakes. It also shows the number of selections you have made. Expect the final number between 25 and 50.
 
 Export
