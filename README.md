@@ -5,9 +5,11 @@ You will review images in groups of four. Select any image that you personally f
 The review has two phases:
 
 Phase 1 — Initial Review
+
 Go through the full image set and click any image you find interesting. When you select an image, it is saved and immediately replaced by a new one. This phase is meant to be broad: select anything that might be worth keeping.
 
 Phase 2 — Filtering
+
 After Phase 1, you will review only the images you selected. Please remove any images that you no longer find interesting. 
 
 # Controls
