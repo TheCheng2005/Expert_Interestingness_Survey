@@ -1,6 +1,6 @@
 # Instructions
 
-You will review images in groups of four. Select any image that you personally find interesting. "Interesting" is intentionally open-ended: it could mean unusual, visually striking, scientifically curious, weird, ambiguous, beautiful, suspicious, or simply worth a second look. Use your own judgment.
+You will review images in groups of four. Select any image that you personally find interesting. "Interesting" is intentionally open-ended. Use your own judgment.
 
 The review has two phases:
 
@@ -8,12 +8,13 @@ Phase 1 — Initial Review
 Go through the full image set and click any image you find interesting. When you select an image, it is saved and immediately replaced by a new one. This phase is meant to be broad: select anything that might be worth keeping.
 
 Phase 2 — Filtering
-After Phase 1, you will review only the images you selected. This second pass is stricter. Click the images that still seem interesting after another look. Images you do not select in Phase 2 will be discarded from your final selection.
+After Phase 1, you will review only the images you selected. Please remove any images that you no longer find interesting. 
 
 # Controls
 
 ### Click an image
-Marks that image as interesting and replaces it with the next image.
+Round 1: Marks that image as interesting and replaces it with the next image.
+Round 2: Removes any image that you find uninteresting and replaces it with the next image.
 
 ### Skip All
 Skips the current four images without selecting any of them. You can also press the space bar to skip the current four images.
